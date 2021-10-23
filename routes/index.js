@@ -8,7 +8,7 @@ var router = express.Router();
 /* GET home page. */
 router.get('/', function (req, res, next) {
 
-  res.render('index', {title: 'Area 51',
+  res.render('index', {title: 'Mi sitio Endemica',
       fragmentos: 'Principal/inicio'});
 
 });

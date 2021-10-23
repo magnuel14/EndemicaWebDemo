@@ -96,7 +96,7 @@ figure {
   font-size: 15px;
 }
 #fh5co-header nav ul li a {
-  color: #999999 !important;
+  color: #17202A !important;
   padding: 10px;
 }
 @media screen and (max-width: 480px) {
@@ -105,7 +105,7 @@ figure {
   }
 }
 #fh5co-header nav ul li a:hover, #fh5co-header nav ul li a:active, #fh5co-header nav ul li a:focus {
-  color: #000 !important;
+  color: #117A65 !important;
   text-decoration: none;
   outline: none;
 }
@@ -186,10 +186,10 @@ figure {
   margin-bottom: 20px;
 }
 .page-content .meta span {
-  color: #bfbfbf;
+  color: #424949;
 }
 .page-content .meta a {
-  color: #bfbfbf;
+  color: #424949;
 }
 .page-content .meta a:hover, .page-content .meta a:active, .page-content .meta a:focus {
   color: #000 !important;
